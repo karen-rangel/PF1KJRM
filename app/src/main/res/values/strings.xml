@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PFKJRM</string>
+    <string name="Titulo1">CONSULTORES JURIDICOS PROFESIONALES</string>
+    <string name="Logo1">Buho</string>
+    <string name="Titulo2">Menu Principal</string>
+    <string name="btnsiguiente">Derecho Familiar</string>
+    <string name="btn2">Derecho Civil</string>
+    <string name="btn3">Derecho Mercantil</string>
+    <string name="btn4">Derecho Laboral</string>
+    <string name="btn5">Derecho Penal</string>
+    <string name="btn6">Informes</string>
+    <string name="btn7">Info. app</string>
+    <string name="logo2">logokar</string>
+    <string name="Atras">Atras</string>
+    <string name="p3">pantalla3</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="TexDF">El derecho de familia se refiere a las normas de orden público e interés social que regulan y protegen a la familia y a sus integrantes, así como su organización y desarrollo integral, sobre la base del respeto a los derechos de igualdad, no discriminación y respeto a la dignidad humana, en orden a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales de derechos humanos ratificados por México, aplicables a la materia, fundamentalmente en el Pacto Internacional de Derechos Civiles y Políticos, la Convención sobre los Derechos del Niño, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención Interamericana para Prevenir, Sancionar y Erradicar la violencia contra la Mujer, así como del trabajo realizado por Naciones Unidas en favor de la familia a través de la División de Política Social y Desarrollo del Departamento de Asuntos Económicos y Sociales. Instrumentos y actividades universales y regionales que contienen disposiciones dirigidas, entre otros muchos aspectos, al fortalecimiento de la capacidad de la familia para atender sus propias necesidades, el equilibrio entre el trabajo y las responsabilidades familiares, la prevención y sanción de la violencia familiar y la mejora en la calidad de vida de los integrantes de la familia.El derecho de familia es el conjunto de normas jurídicas que regulan las relaciones personales y patrimoniales de los miembros de la familia para con ellos y frente a terceros.</string>
+    <string name="info">Kar</string>
+    <string name="nombre">Karen Jaquelin Rangel Miguel</string>
+    <string name="Año">6/10/2019</string>
+    <string name="informes">LIC. Inelba Lucia Catillo Lopez
+cel: 5528789138
+tel: 5558565885
+correo:cjp_lex@yahoo.com.mx</string>
+    <string name="civil">El Derecho Civil es una rama del Derecho en general, como conjunto de normas jurídicas,
+que trata de las relaciones entre civiles o particulares, sin intervención del Estado como persona de
+ Derecho Público, ya que el Derecho Civil integra el llamado Derecho Privado. Las personas jurídicas privadas
+están también comprendidas en su ámbito, mientras que las públicas, sólo si actúan en un plano de igualdad
+con los particulares.</string>
+    <string name="mercantil">El Derecho mercantil es la rama del Derecho privado que regula el conjunto de normas relativas a los comerciantes en el
+ejercicio de su profesión, a los actos de comercio legalmente calificados como tales y a las relaciones jurídicas
+derivadas de la realización de éstos.La actividad mercantil está regulada por una serie de normas y principios de
+distinto origen y orden jerárquico que constituyen el Derecho Mercantil. La jerarquía normativa, es decir,
+el orden de prevalencia de unas normas sobre otras, evita o solventa supuestos de colisión entre normas de
+distinto rango jerárquico.</string>
+    <string name="laboral">El derecho laboral es un conjunto de reglas que se encarga de regular las obligaciones entre trabajadores y patrón,
+ es decir, las partes que intervienen en una relación de trabajo.</string>
+    <string name="penal">El Derecho penal es el conjunto de disposiciones jurídicas que regulan la potestad punitiva del Estado relacionando
+ hechos, estrictamente determinados por la ley con una pena, medida de seguridad o corrección como consecuencia de
+realizar un determinado acto, su objetivo de asegurar los valores elementales para la sana convivencia de los
+individuos de una sociedad. Este conjunto de normas jurídicas se refiere siempre al delincuente, al delito y a las penas.</string>
+    <string name="n">NA</string>
+    <string name="T">TRI</string>
+
+</resources>
